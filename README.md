@@ -1,4 +1,4 @@
-## Hi, there, I'm Artyom. I'm glad to see you on my GitHub profile =)
+## Hi, there, I'm Artyom. I'm glad to see you  my GitHub profile =)
 
 ✌️ Hi! My name is Artyom. I have been learning programming since 2020.
 
